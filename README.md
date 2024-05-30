@@ -1,2 +1,2 @@
 # Ayush-Demo
-This is My first Get Repository
+This is My first Git Repository.
